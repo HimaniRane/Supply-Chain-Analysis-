@@ -1,5 +1,3 @@
-# Supply-Chain-Analysis-
-
 # Supply Chain Analytics Dashboard (Power BI)
 
 > **Driving Efficiency, Delivering Value:** a 3-page Power BI report that brings procurement spend, supplier performance, and logistics delivery into one decision-ready view.
